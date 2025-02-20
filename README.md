@@ -4,6 +4,9 @@ Monte-Carlo simulations for:
 Prediction of prophylactic replacement of voice
 prosthesis in laryngectomized patients –
 A retrospective cohort study
+[https://doi.org/10.1177/01945998221116815](https://doi.org/10.1177/01945998221116815)
+
+[Suppl. Monte-Carlo simulations](https://aao-hnsfjournals.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1177%2F01945998221116815&file=ohn76-sup-0001-SupMat.pdf)
 
 This is the R markdown-code for generating the report on the
 actual Monte-Carlo simulations. It calls ProsthesisChangeMC.R.
