@@ -1,5 +1,6 @@
-# Prediction-of-prophylactic-replacement-of-voice-prosthesis-in-laryngectomized-patients---Suppl-Monte-Carlo-simulations
- 
+# Prediction-of-prophylactic-replacement-of-voice-prosthesis-in-laryngectomized-patients---Suppl-Monte-Carlo-simulations  
+[![DOI](https://zenodo.org/badge/490679526.svg)](https://doi.org/10.5281/zenodo.14898814)
+
 Monte-Carlo simulations for:  
 *Does Prophylactic Replacement of Voice Prosthesis Make Sense? A Study to Predict Prosthesis Lifetime*  
 Heirman, A.N., van der Noort, V., van Son, R., Petersen, J.F., van der Molen, L., Halmos, G.B., Dirven, R. and van den Brekel, M.W.M. (2023). Otolaryngology–Head and Neck Surgery, 168: 429-434.  
